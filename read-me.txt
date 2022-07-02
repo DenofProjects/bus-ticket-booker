@@ -1,0 +1,5 @@
+This project is practice project.
+making private bus agancy online.
+it have various services.
+first is driver service. where driver can register, we can assign it to buses, we can give vip passenger's number to driver.
+we are going with it.
