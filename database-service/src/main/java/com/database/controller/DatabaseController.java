@@ -16,6 +16,7 @@ public class DatabaseController {
 
     @RequestMapping(value = "/driver-details" , method = RequestMethod.GET)
     public String getDriverDetails(){
+        System.out.println("In hre");
         return "Driver : Shantanau mukharji";
     }
 }
