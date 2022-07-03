@@ -1,0 +1,4 @@
+/.idea/
+/database-service/.mvn/wrapper/
+/driver-service/.mvn/wrapper/
+/passenger-service/.mvn/wrapper/

@@ -29,4 +29,9 @@ public class DriverController {
             return new ResponseEntity<>(DriverConstants.FAILURE, HttpStatus.OK);
         }
     }
+
+    @RequestMapping(value = "/getDriver" , method = RequestMethod.GET)
+    public String getDriverDetails(){
+        return driverService.getDriverDetailsFromDbService();
+    }
 }
