@@ -1,9 +1,9 @@
-package com.passenger.pojo;
+package com.database.pojo;
 
 import lombok.Data;
 
 @Data
-public class PassengerDetails {
+public class PassengerRequest {
     private String id;
     private String name;
     private String to;

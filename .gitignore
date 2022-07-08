@@ -2,3 +2,5 @@
 /database-service/.mvn/wrapper/
 /driver-service/.mvn/wrapper/
 /passenger-service/.mvn/wrapper/
+/booker-schema/.mvn/wrapper/
+/eureka-service/.mvn/wrapper/
